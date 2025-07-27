@@ -11,10 +11,6 @@
 <hr>
 
 <b>Warning: </b>If you are a paranoid person, you should not use this userbot. This userbot is not a virus, but it can be used for malicious purposes. You are responsible for all actions taken by your account.  
-  
-**Important notice**: Versions `1.6.4` and `1.7.0` will NOT be released due to the reasons mentioned in the chanelog.  
-The development will start from scratch with a new project, which will be announced later.  
-As of March 2025, you can apply for an early stage of alpha-testing through the official channels.  
 
 <hr>
 <h2><img src="https://github.com/hikariatama/assets/raw/master/1326-command-window-line-flat.webp" height="54" align="middle"> Installation</h2>
@@ -26,12 +22,9 @@ As of March 2025, you can apply for an early stage of alpha-testing through the 
 <a href="https://t.me/lavhostbot?start=SGlra2E"><img src="https://user-images.githubusercontent.com/36935426/167272288-85f00779-4b98-47da-8d0d-ea2c6370b979.png" height="40"></a>
 
 <h2>Local installation:</h2>
-Simply run this command out of <b>root</b> and follow the instructions of installer:<br>
-<code>. <(wget -qO- https://hikariatama.ru/get_hikka)</code><br>
-<br>
 <b>Manual installation (no script):</b><br>
-<code>apt update && apt install git libcairo2 -y && git clone https://github.com/hikariatama/Hikka && cd Hikka && pip install -r requirements.txt && python3 -m hikka</code><br.>
-<i>If you are on VPS\VDS, type <code>--proxy-pass</code> in the end of command to open SSH tunnel to your Hikka web interface, or use <code>--no-web</code> to complete setup in console</i><br>
+<code>apt update && apt install git libcairo2 -y && git clone https://github.com/hoodilol/exoskel && cd exoskel && pip install -r requirements.txt && python3 -m exoskel</code><br.>
+<i>If you are on VPS\VDS, type <code>--proxy-pass</code> in the end of command to open SSH tunnel to your Exoskel web interface, or use <code>--no-web</code> to complete setup in console</i><br>
 <br>
 <b>Some further details:</b>
 
